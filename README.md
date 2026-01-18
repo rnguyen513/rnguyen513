@@ -3,10 +3,11 @@
 Fullstack, kernel/embedded, electronics, robotics, music, nature
 
 Reach me at rnguyen513@gmail.com
+
+<img src="https://github.com/user-attachments/assets/3fa8a3a6-da5e-4f2d-9231-e9a9465b2861" alt="IMG_9585_Ryan_Nguyen_Pic" width="200"/>
+<!--
 ![IMG_9585](https://github.com/user-attachments/assets/3fa8a3a6-da5e-4f2d-9231-e9a9465b2861)
 
-
-<!--
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
