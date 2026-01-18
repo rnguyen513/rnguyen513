@@ -1,8 +1,12 @@
-## Hi there 👋
+## Ryan Nguyen | B.S. CS + Math @ UVA, AR + ML Research
+
+Fullstack, kernel/embedded, electronics, robotics, music, nature
+
+Reach me at rnguyen513@gmail.com
+![IMG_9585](https://github.com/user-attachments/assets/3fa8a3a6-da5e-4f2d-9231-e9a9465b2861)
+
 
 <!--
-**rnguyen513/rnguyen513** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
