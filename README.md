@@ -2,7 +2,7 @@
 
 Fullstack, kernel/embedded, electronics, robotics, music, nature
 
-Resume [here](https://www.ryanhnguyen.com). Reach me at rnguyen513@gmail.com
+[Resume](https://www.ryanhnguyen.com). Reach me at rnguyen513@gmail.com
 
 <img src="https://github.com/user-attachments/assets/3fa8a3a6-da5e-4f2d-9231-e9a9465b2861" alt="IMG_9585_Ryan_Nguyen_Pic" width="200"/>
 <!--
